@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1,
+        "name": "Puneet",
+        "email": "puneet@example.com",
+        "skills": ["Python", "C++"]
+    }
+]

@@ -1,17 +1,17 @@
 # s = 'puneet' + 3 # error
 # print(s);
 
-print(int(2.3) ) # 2
+# print(int(2.3) ) # 2
 
-print(float(2) ) # 2.0
+# print(float(2) ) # 2.0
 
 x = 2
 y = 3
 z = 4
-print(x, y, z) # (2, 3, 4) tuple ban jata h lekin print karte time sirf value print hoti h tuple ka reference print nhi hota h
+# print(x, y, z) # (2, 3, 4) tuple ban jata h lekin print karte time sirf value print hoti h tuple ka reference print nhi hota h
 
 q = x, y, z
-print(q) # (2, 3, 4) tuple ban jata h
+# print(q) # (2, 3, 4) tuple ban jata h
 
 
 #study difference between 
